@@ -98,6 +98,7 @@ distancias %>% head(3) %>%
   summarise(n = n()) %>%
   arrange(desc(n)) %>%  knitr::kable()
 ```
+
 En este ejemplo vemos que el que mas se repite es la clase _**a**_ por lo tanto nuestra figura pertenece a esta clase.
 
 ```{r,echo=FALSE}
@@ -314,4 +315,4 @@ clasificador(c(8,4),alimentos,4)
 
 ## Conclusiones
 
-Como vimos quizás no es un algoritmo super elaborado, sin embargo es un algoritmo que es muy intuitivo y excelente para comenzar este lindo camino de la ciencia de datos y machine learning. Aquí se mostro como funciona si te gustaría profundizar más te invito a que investigues por que es importante tener variables estandarizadas. 
+Como vimos quizás no es un algoritmo super elaborado, sin embargo es un algoritmo que es muy intuitivo y excelente para comenzar este lindo camino de la ciencia de datos y machine learning. Aquí se mostro como funciona si te gustaría profundizar más te invito a que investigues por que es importante tener variables estandarizadas.
