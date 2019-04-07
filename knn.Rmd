@@ -314,4 +314,4 @@ clasificador(c(8,4),alimentos,4)
 
 ## Conclusiones
 
-Como vimos quizás no es un algoritmo super elaborado, sin embargo es un algoritmo que es muy intuitivo y excelente para comenzar este lindo camino de la ciencia de datos y machine learning. Aquí se mostro como funciona si te gustaría profundizar más te invito a que investigues por que es importante tener vartiables estandarizadas. 
+Como vimos quizás no es un algoritmo super elaborado, sin embargo es un algoritmo que es muy intuitivo y excelente para comenzar este lindo camino de la ciencia de datos y machine learning. Aquí se mostro como funciona si te gustaría profundizar más te invito a que investigues por que es importante tener variables estandarizadas. 
