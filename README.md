@@ -1,6 +1,6 @@
 ### K-nearest-neighbors-Con-comida-
 Aquí encontraras el código que utilice para el post de mi blog
-#### [https://alonmar.github.io/scrap-stack](https://alonmar.github.io/scrap-stack/)
+#### [https://alonmar.github.io/knn-comida/](https://alonmar.github.io/knn-comida/)
 
    En este post veremos:
 
